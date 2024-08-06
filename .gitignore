@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 =======
 node_modules
 >>>>>>> release-stage
+=======
+node_modules/
+>>>>>>> new-merge-release

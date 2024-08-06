@@ -5,6 +5,7 @@
     "branch-3" : "branch3",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "checking-main-rebase" : "rebase"
 =======
     "branch-rebase-change" : "rebase"
@@ -12,4 +13,7 @@
 =======
     "branch-for-merge" : "release-merge"
 >>>>>>> release-stage
+=======
+    "branch-for-merge" : "release-merge"
+>>>>>>> new-merge-release
 }
