@@ -4,8 +4,12 @@
     "branch-1" : "branch1",
     "branch-3" : "branch3",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "checking-main-rebase" : "rebase"
 =======
     "branch-rebase-change" : "rebase"
 >>>>>>> branch3
+=======
+    "branch-for-merge" : "release-merge"
+>>>>>>> release-stage
 }
