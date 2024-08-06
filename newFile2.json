@@ -1,0 +1,79 @@
+{
+    "Id": "34e8d628-f2e0-41b7-931c-b72859f5e41b",
+    "Title": "en",
+    "Params": null,
+    "Tiles": [
+        {
+            "Id": "List:17uxglrmdpyyy15ectf15m6cgg",
+            "AgeRating": null,
+            "AssetId": "17uxglrmdpyyy15ectf15m6cgg",
+            "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+            "EventId": "8jj477bz2dgs02y91gz7l6vis",
+            "Type": "UpComing",
+            "NavigateTo": null,
+            "NavParams": null,
+            "Title": "Panthers @ Falcons",
+            "Description": "Action from the 2024 Season on NFL Game Pass on DAZN",
+            "Start": "2025-01-05T00:00:00Z",
+            "End": null,
+            "DisplayDate": "2024-07-27T11:46:04Z",
+            "Image": {
+                "ImageMimeType": "png",
+                "ImageType": "image-header",
+                "Id": "17uxglrmdpyyy15ectf15m6cgg_image-header_pDach_1713282205000"
+            },
+            "BackgroundImage": null,
+            "PromoImage": null,
+            "LogoImage": null,
+            "PortraitImage": null,
+            "Competition": {
+                "Id": "wy3kluvb4efae1of0d8146c1",
+                "Title": "NFL Game Pass"
+            },
+            "Sport": {
+                "Id": "9ita1e50vxttzd1xll3iyaulu",
+                "Title": "American Football",
+                "Images": [
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-background",
+                        "Id": "a76925b5-a167-4e2c-a948-ac48a318e765"
+                    },
+                    {
+                        "ImageMimeType": "jpg",
+                        "ImageType": "image-tile",
+                        "Id": "84b40b47-3790-4375-9b96-fe43029d76cc"
+                    }
+                ]
+            },
+            "Videos": [],
+            "Related": [],
+            "TournamentCalendar": {
+                "Id": "9oxbv3rdfl9t8wwrtdbg99uc",
+                "Title": "NFL Game Pass - 2024"
+            },
+            "ExpirationDate": "2025-01-05T00:10:00Z",
+            "VideoType": "Vod",
+            "IsGeoRestricted": false,
+            "IsLinear": false,
+            "Status": null,
+            "Label": "NFL Game Pass - 2024",
+            "IsDownloadable": false,
+            "VerifyAge": false,
+            "NewLabel": false,
+            "IsFreeToView": false,
+            "PinProtect": false,
+            "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:8jj477bz2dgs02y91gz7l6vis",
+            "ArticleNavigateTo": "Fixture",
+            "EntitlementIds": [
+                "ent_nfl_pro"
+            ],
+            "LinearSchedule": null
+        }
+    ],
+    "StartPosition": 0,
+    "ContinuousPlayEnabled": false,
+    "Navigation": null,
+    "Type": "Standard",
+    "Description": null
+}
