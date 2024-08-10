@@ -1,3 +1,4 @@
 {
-    "FIRST" : "REBASE COMMIT"
+    "FIRST" : "REBASE COMMIT",
+    "second" : "REBASE COMMIT - 2"
 }
