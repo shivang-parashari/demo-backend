@@ -1,4 +1,5 @@
 {
     "START" : "start of main commit",
-    "FIRST-MERGE-MAIN" : "first main-merge commit"
+    "FIRST-MERGE-MAIN" : "first main-merge commit",
+    "START-REBASE" : "start of rebase commit"
 }
