@@ -1,4 +1,5 @@
 {
     "first" : "cherrypick commit",
-    "second" : "second cherrypick commit"
+    "second" : "second cherrypick commit",
+    "third" : "REABASE COMMIT -1"
 }
