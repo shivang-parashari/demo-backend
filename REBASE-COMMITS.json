@@ -1,5 +1,4 @@
 {
     "first" : "first rebase commit",
-    "second" : "second rebase commit",
-    "third" : "third rebase commit"
+    "second" : "second rebase commit"
 }
