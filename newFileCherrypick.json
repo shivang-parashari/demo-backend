@@ -1,3 +1,4 @@
 {
-    "first" : "cherrypick commit"
+    "first" : "cherrypick commit",
+    "second" : "second cherrypick commit"
 }
