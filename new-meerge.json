@@ -1,4 +1,5 @@
 {
     "first" : "first-merge-commit 1-40",
-    "second" : "second-merge-commit"
+    "second" : "second-merge-commit",
+    "third" : "third-merge-commit"
 }
